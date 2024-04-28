@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-nav{
+     margin-left: 70%; 
+}
+.navbar-nav li{
+    margin: 0 15px;
+}
+.one{
+    border: none;
+}
+.text-center{
+    font-size:500%;
+    margin-top: 170px;
+    color: #f55e5a;
+    margin-right: 60px;
+    text-transform: uppercase;
+}
+.navbar-brand img{
+    margin-left: 100px;
+}
+#banner{
+    background-color: rgb(247, 217, 188);
+    height: 870px;
+
+}
+#banner1{
+    background-color: rgb(247, 217, 188);
+}
+.title-one{
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.one{
+    background-color:  rgb(247, 217, 188);
+}
+.navbar-nav li a{
+      font-weight: 600px;
+}
+
+
+
